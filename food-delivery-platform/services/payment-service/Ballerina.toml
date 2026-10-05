@@ -1,0 +1,8 @@
+[package]
+org = "fooddelivery"
+name = "payment_service"
+version = "1.0.0"
+distribution = "2201.13.6"
+
+[build-options]
+observabilityIncluded = true
